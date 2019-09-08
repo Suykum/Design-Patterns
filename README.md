@@ -1,1 +1,1 @@
-# Design-Patterns
+# Examples from book "Head First Design Patterns"
